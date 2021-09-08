@@ -1,5 +1,9 @@
 # _Classification of Chronic Kidney Disease with Artificial Neural Networks_
 
+## _Authors_
+1) Rahul Sawhney
+2) Dr. Shilpi Sharma (Associate Professor) 
+
 ## _Abstract_
 Chronic Kidney Disease or CKD is one of the most prevalent disease which influence humans on a larger scale and proves to be fatal as it remains dormant unless irreversible damages have been made to the kidney of an individual. Progression of CKD is related to variety of great complications, including increased incidence of various disorders, anemia, hyperlipidemia, nerve damage, pregnancy complications and even complete kidney failure. Millions of people die from this disease every year. Diagnosing CKD is a cumbersome task as there are no major symptom that can be used as a benchmark to detect the disease. In cases when diagnosis persists, some results may be interpreted incorrectly. This paper proposes a Multi- Layered Perceptron Classifier that uses deep neural network in order to predict whether a patient has CKD or not. The model is trained on a dataset of about four hundred patients and considers diverse signs and symptoms which includes blood pressure, age, sugar level, red blood cell count, etc. The experimental results display that the proposed model can perform classification with the testing accuracy of 100 %. The aim is to help introduce Deep Learning methods in learning from the dataset attribute reports and detect CKD correctly to a large extent.
 
